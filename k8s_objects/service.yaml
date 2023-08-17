@@ -4,7 +4,7 @@ metadata:
   creationTimestamp: null
   labels:
     app: site
-  name: site
+  name: site-service
 spec:
   ports:
   - name: 80-80
